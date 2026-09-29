@@ -63,6 +63,8 @@ Users can filter the dashboard by **Year** and **Region** and select a product c
 
 ![Retail Sales & Profitability Dashboard](retail_dashboard.png)
 
+### [View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/ololade.akinsanola/viz/RetailSalesProfitabilityAnalysis_17904860327450/SALESPROFITABILITYDASHBOARD)
+
 ## Key Findings
 
 ### 1. Furniture generated strong sales but weak profitability
