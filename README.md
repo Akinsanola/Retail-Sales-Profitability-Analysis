@@ -25,6 +25,12 @@ Each row represents an individual order line rather than a unique customer order
 
 Initial data validation identified no missing values. Negative-profit transactions were retained because they represent meaningful business outcomes for profitability analysis rather than data-quality errors.
 
+## Project Files
+
+- [Excel Exploratory Analysis](superstore_excel_analysis.xlsx)
+- [SQL Analysis](superstore_analysis.sql)
+- [Tableau Dashboard Image](retail_dashboard.png)
+
 ## Tools & Technologies
 
 - **Microsoft Excel:** Data validation, exploratory analysis, PivotTables, calculated metrics, and initial identification of profitability patterns.
