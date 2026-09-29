@@ -28,7 +28,7 @@ Initial data validation identified no missing values. Negative-profit transactio
 ## Project Files
 
 - [Excel Exploratory Analysis](superstore_excel_analysis.xlsx)
-- [SQL Analysis](superstore_analysis.sql)
+- [SQL Analysis](Superstore_analysis.sql)
 - [Tableau Dashboard Image](retail_dashboard.png)
 
 ## Tools & Technologies
